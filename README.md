@@ -1,6 +1,5 @@
-## Thanks for stopping by! 🥳
+## Thanks for stopping by! 👽
 
----
 ### Overview
 
 - 🔭 **Currently working on:** [Destiny2.dev](https://destiny2.dev/) - a collection of API endpoints, built with Cloudflare Workers, that handle all of the irritating parts of dealing with the Destiny 2 API for you!
