@@ -1,12 +1,19 @@
-## Thanks for stopping by! 👽
+# Thanks for stopping by! 🥳
 
-### Overview
+## 📰 What's the latest?
 
-- 🔭 **Currently working on:** [Destiny2.dev](https://destiny2.dev/) - a collection of API endpoints, built with Cloudflare Workers, that handle all of the irritating parts of dealing with the Destiny 2 API for you!
-- ⚡ **Elaborate:** Want to search for a player? Normally, you'd need to setup an application on the Bungie.net website, then build a small client application that calls the Bungie.net API with your API Key in the header, etc. **With Destiny2.dev**, you simply add the name you want to search for to the end of this URL: `https://api.simplify.workers.dev/search/`
-- 😀 **Example:** https://api.simplify.workers.dev/search/localhost
+### 📢 Current Project
 
-_**Note:** Once the project is complete, the URL from the example above would, ideally, be: `https://api.destiny2.dev/search/players/localhost`_
+> <img src="https://raw.githubusercontent.com/johngagefaulkner/Icons-and-Logos/main/Badges/Build-Preview.svg" height="30px" />
+ 
+📌 **Current Project:** [FortniteAPI.dev](https://fortniteapi.dev) which aims to provide access to HTTPS API endpoints that expose functionality similar to what's available via some Discord bots. The following endpoints are functional but haven't yet been made public:
+
+**Authentication:**
+
+- [x] `POST` https://prod-svc.fortniteapi.dev/oauth/token
+- [ ] test
+- [ ] test
+
 
 ---
 
