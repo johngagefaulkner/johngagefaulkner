@@ -16,10 +16,10 @@ My name is John Gage Faulkner... you can call me Gage. I'm employed as a Cloud S
 
 I've been programming since Visual Studio 2005 (when I was 12-years-old 🤓) so I've been with C# and .NET for nearly 20 years now. The list below contains the languages, frameworks, platforms, etc., that I've learned to love over the years:
 
-- **Language:** `C#` (12.0)
-- **Framework:** `.NET 8`
-- **Design Pattern:** I'm well-versed in `MVVM` but I'm one of the weird ones that prefers `code-behind` 🤷‍♂️
-- **UI:** `XAML` (familiar with `WPF`, `UWP` and─my preference─`WinUI 3`.)
+- **Language:** `C#` (13.0)
+- **Framework:** `.NET 9`
+- **Design Pattern:** MVVM, Code-Behind (Standard)
+- **UI:** WinUI 3 (`XAML`)
 - **Databases:** I prefer `Google Cloud Firestore` or `BigTable` but I've worked with:
     - `SQL Server`
     - `SQLite`
